@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apurba Sarkar
 - 👀 I’m interested in Data Analytics and Deep Learning.
-- 🌱 I’m currently learning Deep Neural Networks and SQL.
+- 🌱 I’m currently learning Data Engineering and Analytics.
 - 💞️ I’m looking to collaborate on Kaggle Competitions or any other projects.
 - 📫 How to reach me @ apurbasarkar64@gmail.com
 
